@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓 Happy Valentine’s Day, babyyy! Ang ganda-ganda mo so muchhh. I love youuu. Ang tagal na natin, and I hope tumagal pa tayo mga 100 years :)) mwaaa! I love you so much, babyyy. Gusto ko rin sabihin na I’m so proud of you. Kung ano man ang kinakaharap mo ngayon, fighting lang! I know you’re doing your best, and remember that God is always with you, and nandito rin ako palagi para sa’yo. Kung pagod ka, dito ka lang magpahinga sa’kin. Kung gusto mo ng kausap, ikuwento mo lang lahat makikinig ako. Mahal na mahal kita, baby ko. My best girl, Ali. Happy Valentine’s Day ulit!",
+        title: "Yay! I'm the luckiest person in the world! 🎉💝💖 Happy Valentine’s Day, babyyy! Ang ganda-ganda mo so muchhh. I love youuu. Ang tagal na natin, and I hope tumagal pa tayo mga 100 years :)) mwaaa! I love you so much, babyyy. Gusto ko rin sabihin na I’m so proud of you. Kung ano man ang kinakaharap mo ngayon, fighting lang! I know you’re doing your best, and remember that God is always with you, and nandito rin ako palagi para sa’yo. Kung pagod ka, dito ka lang magpahinga sa’kin. Kung gusto mo ng kausap, ikuwento mo lang lahat makikinig ako. Mahal na mahal kita, baby ko. My best girl, Ali. Happy Valentine’s Day ulit!",
        
     },
 
